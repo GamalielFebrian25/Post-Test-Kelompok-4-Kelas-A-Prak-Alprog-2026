@@ -2,7 +2,7 @@
 # Pembagian Tugas Post Test Kelompok 4
 Dimas Pangestu Ramadhan
 21060125140215
-Tugas: Setup file notebook awal, load dataset CSV, melakukan pembersihan tipe data numerik, dan membuat tabel preview awal. Membuat draft penjelasan di infografis.
+Tugas: Setup file notebook awal, load dataset CSV, melakukan pembersihan tipe di data numerik, dan membuat tabel preview awal. Membuat draft penjelasan di infografis.
 
 Alif Sulthan Hakim
 21060125140216
